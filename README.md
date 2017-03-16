@@ -1,2 +1,2 @@
 # add_focus
-quick command line entry of omnifocus entries
+Quickly add OmniFocus entries from a terminal.
