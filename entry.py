@@ -43,5 +43,6 @@ def quick_add(single_line_item):
         else:
             quick_entry.create(entry_parts[0], '')
         quick_entry.send()
+        print('\nSent to OmniFocus!')
     except:
-        print('something ungood happened.')
+        print('Something happened...')
