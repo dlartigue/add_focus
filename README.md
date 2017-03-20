@@ -42,6 +42,8 @@ OMNIFOCUS_EMAIL = 'your_maildrop_email@sync.omnigroup.com'
 ```
 5) Add python.exe to PATHEXT (can be done manually using SET, or with [Windows Environment Variables Editor](http://eveditor.com/))
 
+* If you have any issues getting this to work, this [thread](http://stackoverflow.com/questions/1934675/how-to-execute-python-scripts-in-windows) is a good place to start.
+
 ## Todo
 
 Make this into a proper package, which will simplfy scrpit installation.
