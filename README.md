@@ -33,7 +33,7 @@ EMAIL_PASS = 'your_email_password'
 OMNIFOCUS_EMAIL = 'your_maildrop_email@sync.omnigroup.com'
 ```
 
-* These next steps cover how to make the script easier to run*
+*These next steps cover how to make the script easier to run*
 
 2) Move the project directory to where you keep python scripts
     (e.g. `C:\python\Scrpits\`)
