@@ -2,7 +2,7 @@
 Quickly add OmniFocus entries from the Windows Command Line.
 
 ## Requires:
-+ OmniFocus [Mail Drop](https://support.omnigroup.com/omnifocus-mail-drop/) Email Address
++ [OmniFocus](https://www.omnigroup.com/omnifocus) & a [Mail Drop](https://support.omnigroup.com/omnifocus-mail-drop/) Email Address
 + Personal Email Address (Probably best to set up a dedicated gmail address)
 + Python 3.5+ (Has not been tested on Python 2, might require some adjustment)
 
