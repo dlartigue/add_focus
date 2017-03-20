@@ -48,5 +48,6 @@ OMNIFOCUS_EMAIL = 'your_maildrop_email@sync.omnigroup.com'
 
 ## Todo
 
-Add encryption to email credentials?
-Make this into a proper package, which will simplify script installation.
++ Add encryption to email credentials?
+
++ Make this into a proper package, which will simplify script installation.
