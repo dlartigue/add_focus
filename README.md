@@ -24,7 +24,7 @@ can also send an entry with just a title (no semicolon).
 
 1) Update `config.py` to include your account details.
 ```
-FROM_EMAIL = 'email_you_want_to_use@someplace.biz'
+FROM_EMAIL = 'semi_disposable_email_you_want_to_use@gmail.com'
 EMAIL_PASS = 'your_email_password'
 OMNIFOCUS_EMAIL = 'your_maildrop_email@sync.omnigroup.com'
 ```
