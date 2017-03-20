@@ -3,7 +3,9 @@ Quickly add OmniFocus entries from the Windows Command Line.
 
 ## Requires:
 + [OmniFocus](https://www.omnigroup.com/omnifocus) & a [Mail Drop](https://support.omnigroup.com/omnifocus-mail-drop/) Email Address
-+ Personal Email Address (Probably best to set up a dedicated gmail address)
++ Personal Email Address
+    + Set up for a gmail address currently, you can change this by altering the `entry.New_Entry` class. 
+    + Since this script currently stores the credentials in plain text, it is highly recommended to set up a single purpose gmail account for this utility.
 + Python 3.5+ (Has not been tested on Python 2, might require some adjustment)
 
 ## Use
@@ -46,4 +48,5 @@ OMNIFOCUS_EMAIL = 'your_maildrop_email@sync.omnigroup.com'
 
 ## Todo
 
-Make this into a proper package, which will simplfy scrpit installation.
+Add encryption to email credentials?
+Make this into a proper package, which will simplify script installation.
