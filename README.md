@@ -36,7 +36,7 @@ OMNIFOCUS_EMAIL = 'your_maildrop_email@sync.omnigroup.com'
 *These next steps cover how to make the script easier to run*
 
 2) Move the project directory to where you keep python scripts
-    (e.g. `C:\python\Scrpits\`)
+    (e.g. `C:\python\Scripts\`)
 
 3) Add the project directory to your path. [Manually](https://technet.microsoft.com/en-us/library/bb490998.aspx), or using something like [Windows Environment Variables Editor](http://eveditor.com/).
 
